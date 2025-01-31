@@ -1,0 +1,1 @@
+This is a Pc Cleaner with over 110 Cleaning features and 10 Submenus with a full GUI. I need help correcting all the errors in this code if someone can help me fix this app to make all the cleaning feautres work wit hno errors and make everything work properly it woulkd be greatly apprecatied. And maybe we can expand it farther but I need help if possible!(Help Needed)
